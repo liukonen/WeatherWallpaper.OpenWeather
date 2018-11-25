@@ -3,3 +3,5 @@
 ################################################################################
 
 /Plugins/ExternalService.OpenWeather/obj
+/Plugins/ExternalService.OpenWeather/bin
+/Solutions/.vs/ExternalService.OpenWeather/v15
